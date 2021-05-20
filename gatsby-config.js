@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Portfolio`,
+    description: `This is my portfolio built with GatsbyJS, built in 2021. It shows off some projects I worked on during my time at Lambda and outside of Lambda School. Check out the about me section to get to know me a little.`,
     author: `@gatsbyjs`,
   },
   plugins: [
