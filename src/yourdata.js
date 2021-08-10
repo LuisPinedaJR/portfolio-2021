@@ -24,11 +24,11 @@ export default {
     //Line 2 For Header
     "Front end dev",
     //Line 3 For Header
-    "and tech student :)",
+    // "and tech student :)",
   ],
   //   Header Paragraph
   headerParagraph:
-    "My tech stack includes ReactJS, CSS, NodeJS, Java, HTML, check back later to see what else I have added to toolkit, I love learning new things and always looking to better myself. ",
+    "My tech stack includes HTML, CSS, Javacript, React, NodeJS, SQL, check back later to see what else I have added to toolkit, I love learning new things and always looking to better myself. ",
 
   //Contact Email
   contactEmail: "Luispineda@hey.com",
@@ -159,7 +159,7 @@ export default {
 
   promotionHeading: "The stack",
   promotionPara:
-    "The primary technologies I work with are React.js, JavaScript, Node.js, Express, PostgreSQL, HTML and CSS for building projects. I've created solo full-stack applications, participated in team hackathons, and collaborated with teammates to bring project ideas to life.",
+    "The primary technologies I work with are React.js, JavaScript, Node.js, Express, PostgreSQL, HTML and CSS for building projects. I've created solo full-stack applications, participated in team hackathons, and collaborated with teams to bring projects and ideas to life.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
