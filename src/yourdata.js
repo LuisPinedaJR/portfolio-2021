@@ -94,6 +94,34 @@ export default {
       url:
         "https://github.com/Lambda-School-Labs/deprecated-Express_Groomer-TeamA-FE",
     },
+    {
+      title: "Dental Agency", //Project Title - Add Your Project Title Here
+      para:
+        "We specialize in marketing for a focused cause to bring you results - more business.", // Add Your Service Type Here
+      //Project Image - Add Your Project 4Image Here
+      imageSrc:
+        "https://res.cloudinary.com/luispineda/image/upload/v1628626270/Screen_Shot_2021-08-10_at_4.07.14_PM_kqmqyv.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://zen-gates-37b833.netlify.app/",
+    },
+    {
+      title: "Coffee Lovers coffee", //Project Title - Add Your Project Title Here
+      para: "Coffee Shop", // Add Your Service Type Here
+      //Project Image - Add Your Project 4Image Here
+      imageSrc:
+        "https://res.cloudinary.com/luispineda/image/upload/v1628626712/Screen_Shot_2021-08-10_at_4.18.18_PM_vqnuby.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://youthful-roentgen-e62073.netlify.app/",
+    },
+    {
+      title: "Chill Out A/C", //Project Title - Add Your Project Title Here
+      para: "We Keep You Cool", // Add Your Service Type Here
+      //Project Image - Add Your Project 4Image Here
+      imageSrc:
+        "https://res.cloudinary.com/luispineda/image/upload/v1628626840/Screen_Shot_2021-08-10_at_4.20.24_PM_luloba.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://agitated-galileo-bbacec.netlify.app/",
+    },
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End
